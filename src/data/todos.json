@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "title": "Weekly buy list",
+        "description": "Weekly buy list",
+        "date": "2023-02-01",
+        "category": "Shopping",
+        "completed": true
+    },
+    {
+        "id": "2",
+        "title": "Homeworks",
+        "description": "Do homeworks",
+        "date": "2023-01-01",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "id": "3",
+        "title": "Read a book",
+        "description": "Read a book",
+        "date": "2023-01-01",
+        "category": "Hobby",
+        "completed": true
+    },
+    {
+        "id": "4",
+        "title": "Go to the gym",
+        "description": "Go to the gym",
+        "date": "2023-01-01",
+        "category": "Hobby",
+        "completed": false
+    },
+    {
+        "id": "5",
+        "title": "Go to the cinema",
+        "description": "Go to the cinema",
+        "date": "2023-01-01",
+        "category": "Hobby",
+        "completed": true
+    },
+    {
+        "id": "6",
+        "title": "Go to the gym",
+        "description": "Go to the gym",
+        "date": "2023-01-01",
+        "category": "Hobby",
+        "completed": false
+    },
+    {
+        "id": "7",
+        "title": "Go to the cinema",
+        "description": "Go to the cinema",
+        "date": "2023-01-01",
+        "category": "Hobby",
+        "completed": false
+    },
+    {
+        "id": "8",
+        "title": "Make something",
+        "description": "Make something",
+        "date": "2023-01-01",
+        "category": "Productivity",
+        "completed": true
+    }
+]
